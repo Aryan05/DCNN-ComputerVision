@@ -1,0 +1,43 @@
+CNN
+****************
+
+****************
+CNN_cifar
+Parameters
+num_epochs: 10
+batch_size: 200
+learning rate: 1.000000
+weight decay: 0.500000
+Kernel Pool Size: 2
+
+
+****************
+CNN_cifar
+Parameters
+num_epochs: 10
+batch_size: 25000
+learning rate: 1.000000
+weight decay: 0.500000
+Kernel Pool Size: 2
+
+
+****************
+CNN_cifar
+Parameters
+num_epochs: 10
+batch_size: 2000
+learning rate: 1.000000
+weight decay: 0.500000
+Kernel Pool Size: 2
+
+
+****************
+CNN_cifar
+Parameters
+num_epochs: 3
+batch_size: 200
+learning rate: 1.000000
+weight decay: 0.500000
+Kernel Pool Size: 2
+
+

@@ -1,0 +1,40 @@
+DCNN
+****************
+****************
+DCNN with dropout and patience
+Parameters
+num_epochs: 10
+patience: 10
+batch_size: 100
+learning decay: 0.000010
+dropout rate: 0
+Kernel Pool Size: 1
+metafilter number: 2 1
+metafilter number: 4 8
+
+
+Epoch 1/10, train error: 0.508505. Elapsed time: 205.39 seconds
+Test error: 0.029300
+Epoch 2/10, train error: 0.241476. Elapsed time: 196.19 seconds
+Test error: 0.023700
+Epoch 3/10, train error: 0.195608. Elapsed time: 205.23 seconds
+Test error: 0.020600
+Epoch 4/10, train error: 0.163207. Elapsed time: 211.33 seconds
+Test error: 0.016900
+Epoch 5/10, train error: 0.146254. Elapsed time: 212.09 seconds
+Test error: 0.016400
+Epoch 6/10, train error: 0.131120. Elapsed time: 221.33 seconds
+Test error: 0.014400
+Epoch 7/10, train error: 0.124867. Elapsed time: 330.69 seconds
+Test error: 0.014800
+Epoch 8/10, train error: 0.116057. Elapsed time: 439.64 seconds
+Test error: 0.014600
+Epoch 9/10, train error: 0.109681. Elapsed time: 429.60 seconds
+Test error: 0.014000
+Epoch 10/10, train error: 0.101382. Elapsed time: 220.74 seconds
+Test error: 0.013800
+
+
+End of run
+
+

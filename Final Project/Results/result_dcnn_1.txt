@@ -1,0 +1,302 @@
+DCNN
+****************
+****************
+DCNN with dropout and patience
+Parameters
+num_epochs: 10
+patience: 10
+batch_size: 100
+learning decay: 0.000010
+dropout rate: 0
+Kernel Pool Size: 1
+metafilter number: 2 1
+metafilter number: 4 8
+
+
+Epoch 1/10, train error: 0.508505. Elapsed time: 205.39 seconds
+Test error: 0.029300
+Epoch 2/10, train error: 0.241476. Elapsed time: 196.19 seconds
+Test error: 0.023700
+Epoch 3/10, train error: 0.195608. Elapsed time: 205.23 seconds
+Test error: 0.020600
+Epoch 4/10, train error: 0.163207. Elapsed time: 211.33 seconds
+Test error: 0.016900
+Epoch 5/10, train error: 0.146254. Elapsed time: 212.09 seconds
+Test error: 0.016400
+Epoch 6/10, train error: 0.131120. Elapsed time: 221.33 seconds
+Test error: 0.014400
+Epoch 7/10, train error: 0.124867. Elapsed time: 330.69 seconds
+Test error: 0.014800
+Epoch 8/10, train error: 0.116057. Elapsed time: 439.64 seconds
+Test error: 0.014600
+Epoch 9/10, train error: 0.109681. Elapsed time: 429.60 seconds
+Test error: 0.014000
+Epoch 10/10, train error: 0.101382. Elapsed time: 220.74 seconds
+Test error: 0.013800
+
+
+End of run
+
+
+****************
+DCNN
+Parameters
+num_epochs: 2
+patience: 10
+batch_size: 300
+learning decay: 0.500000
+dropout rate: 0.500000
+Kernel Pool Size: 1
+metafilter number: 2 1
+metafilter number: 4 8
+
+
+Epoch 1/2, train error: 0.255647. Elapsed time: 182.63 seconds
+Test error: 0.029200
+****************
+DCNN
+Parameters
+num_epochs: 2
+patience: 10
+batch_size: 300
+dropout rate: 0.500000
+Kernel Pool Size: 1
+metafilter number: 2 1
+metafilter number: 4 8
+
+
+****************
+DCNN with dropout and patience
+Parameters
+num_epochs: 100
+patience: 10
+batch_size: 200
+learning decay: 0.000010
+dropout rate: 0.500000
+Kernel Pool Size: 2
+metafilter number: 2 1
+metafilter number: 4 2
+
+
+Epoch 1/100, train error: 0.419784. Elapsed time: 99.58 seconds
+Test error: 0.033200
+****************
+DCNN with dropout and patience
+Parameters
+num_epochs: 100
+patience: 10
+batch_size: 200
+learning decay: 0.000010
+dropout rate: 0.500000
+Kernel Pool Size: 2
+metafilter number: 2 1
+metafilter number: 4 2
+
+
+Epoch 1/100, train error: 0.358695. Elapsed time: 93.33 seconds
+Test error: 0.028000
+Epoch 2/100, train error: 0.158787. Elapsed time: 98.93 seconds
+Test error: 0.025700
+Epoch 3/100, train error: 0.123811. Elapsed time: 104.32 seconds
+Test error: 0.019300
+Epoch 4/100, train error: 0.104872. Elapsed time: 97.98 seconds
+Test error: 0.017400
+Epoch 5/100, train error: 0.093996. Elapsed time: 95.52 seconds
+Test error: 0.017500
+Epoch 6/100, train error: 0.085878. Elapsed time: 101.27 seconds
+Test error: 0.016200
+Epoch 7/100, train error: 0.078843. Elapsed time: 94.92 seconds
+Test error: 0.015700
+Epoch 8/100, train error: 0.075998. Elapsed time: 106.96 seconds
+Test error: 0.014500
+Epoch 9/100, train error: 0.072123. Elapsed time: 106.63 seconds
+Test error: 0.013700
+Epoch 10/100, train error: 0.067105. Elapsed time: 105.05 seconds
+Test error: 0.014700
+Epoch 11/100, train error: 0.065519. Elapsed time: 95.07 seconds
+Test error: 0.012700
+Epoch 12/100, train error: 0.062240. Elapsed time: 97.33 seconds
+Test error: 0.014800
+Epoch 13/100, train error: 0.061212. Elapsed time: 94.58 seconds
+Test error: 0.010300
+Epoch 14/100, train error: 0.059122. Elapsed time: 96.84 seconds
+Test error: 0.013200
+Epoch 15/100, train error: 0.055257. Elapsed time: 97.48 seconds
+Test error: 0.013600
+Epoch 16/100, train error: 0.054907. Elapsed time: 98.65 seconds
+Test error: 0.013700
+Epoch 17/100, train error: 0.053870. Elapsed time: 94.83 seconds
+Test error: 0.013400
+Epoch 18/100, train error: 0.053019. Elapsed time: 97.33 seconds
+Test error: 0.011800
+Epoch 19/100, train error: 0.051127. Elapsed time: 96.61 seconds
+Test error: 0.012900
+Epoch 20/100, train error: 0.047848. Elapsed time: 95.95 seconds
+Test error: 0.012700
+Epoch 21/100, train error: 0.048172. Elapsed time: 94.43 seconds
+Test error: 0.013500
+Epoch 22/100, train error: 0.047526. Elapsed time: 96.89 seconds
+Test error: 0.012300
+Epoch 23/100, train error: 0.047283. Elapsed time: 95.47 seconds
+Test error: 0.012700
+Epoch 24/100, train error: 0.045935. Elapsed time: 98.73 seconds
+Test error: 0.012300
+Epoch 25/100, train error: 0.046207. Elapsed time: 93.99 seconds
+Test error: 0.012500
+Epoch 26/100, train error: 0.045000. Elapsed time: 99.14 seconds
+Test error: 0.013200
+Epoch 27/100, train error: 0.044116. Elapsed time: 94.72 seconds
+Test error: 0.013900
+Epoch 28/100, train error: 0.044176. Elapsed time: 97.21 seconds
+Test error: 0.013000
+Epoch 29/100, train error: 0.041957. Elapsed time: 97.86 seconds
+Test error: 0.015400
+Epoch 30/100, train error: 0.043746. Elapsed time: 98.15 seconds
+Test error: 0.012300
+Epoch 31/100, train error: 0.042796. Elapsed time: 97.21 seconds
+Test error: 0.012100
+Epoch 32/100, train error: 0.042104. Elapsed time: 96.10 seconds
+Test error: 0.013100
+Epoch 33/100, train error: 0.043174. Elapsed time: 94.19 seconds
+Test error: 0.014100
+Epoch 34/100, train error: 0.041172. Elapsed time: 98.73 seconds
+Test error: 0.012900
+Epoch 35/100, train error: 0.040570. Elapsed time: 98.29 seconds
+Test error: 0.012700
+Epoch 36/100, train error: 0.042230. Elapsed time: 96.64 seconds
+Test error: 0.013200
+Epoch 37/100, train error: 0.039065. Elapsed time: 96.16 seconds
+Test error: 0.011100
+Epoch 38/100, train error: 0.039379. Elapsed time: 97.93 seconds
+Test error: 0.012200
+Epoch 39/100, train error: 0.039052. Elapsed time: 95.52 seconds
+Test error: 0.010800
+Epoch 40/100, train error: 0.038713. Elapsed time: 97.99 seconds
+Test error: 0.013000
+Epoch 41/100, train error: 0.039268. Elapsed time: 96.21 seconds
+Test error: 0.012900
+Epoch 42/100, train error: 0.038616. Elapsed time: 97.46 seconds
+Test error: 0.012200
+Epoch 43/100, train error: 0.037452. Elapsed time: 95.77 seconds
+Test error: 0.013300
+Epoch 44/100, train error: 0.034732. Elapsed time: 116.12 seconds
+Test error: 0.013000
+Epoch 45/100, train error: 0.037586. Elapsed time: 103.27 seconds
+Test error: 0.013600
+Epoch 46/100, train error: 0.033957. Elapsed time: 112.19 seconds
+Test error: 0.014000
+Epoch 47/100, train error: 0.036758. Elapsed time: 111.85 seconds
+Test error: 0.011200
+Epoch 48/100, train error: 0.037306. Elapsed time: 113.85 seconds
+Test error: 0.013000
+Epoch 49/100, train error: 0.038463. Elapsed time: 99.45 seconds
+Test error: 0.013800
+Epoch 50/100, train error: 0.037314. Elapsed time: 118.84 seconds
+Test error: 0.013500
+Epoch 51/100, train error: 0.036928. Elapsed time: 109.74 seconds
+Test error: 0.012700
+Epoch 52/100, train error: 0.037475. Elapsed time: 101.96 seconds
+Test error: 0.013200
+Epoch 53/100, train error: 0.036592. Elapsed time: 103.70 seconds
+Test error: 0.013300
+Epoch 54/100, train error: 0.035550. Elapsed time: 107.78 seconds
+Test error: 0.013700
+Epoch 55/100, train error: 0.034629. Elapsed time: 109.22 seconds
+Test error: 0.012600
+Epoch 56/100, train error: 0.038647. Elapsed time: 102.80 seconds
+Test error: 0.012700
+Epoch 57/100, train error: 0.035507. Elapsed time: 104.74 seconds
+Test error: 0.013500
+Epoch 58/100, train error: 0.037338. Elapsed time: 103.69 seconds
+Test error: 0.013100
+Epoch 59/100, train error: 0.037009. Elapsed time: 102.64 seconds
+Test error: 0.013200
+Epoch 60/100, train error: 0.036557. Elapsed time: 108.39 seconds
+Test error: 0.013400
+Epoch 61/100, train error: 0.036882. Elapsed time: 104.76 seconds
+Test error: 0.013300
+Epoch 62/100, train error: 0.035188. Elapsed time: 104.11 seconds
+Test error: 0.011700
+Epoch 63/100, train error: 0.036472. Elapsed time: 103.88 seconds
+Test error: 0.013800
+Epoch 64/100, train error: 0.034805. Elapsed time: 103.86 seconds
+Test error: 0.013700
+Epoch 65/100, train error: 0.035690. Elapsed time: 106.59 seconds
+Test error: 0.011900
+Epoch 66/100, train error: 0.032989. Elapsed time: 105.16 seconds
+Test error: 0.013700
+Epoch 67/100, train error: 0.036506. Elapsed time: 112.19 seconds
+Test error: 0.012200
+Epoch 68/100, train error: 0.035447. Elapsed time: 108.95 seconds
+Test error: 0.013300
+Epoch 69/100, train error: 0.034559. Elapsed time: 124.27 seconds
+Test error: 0.012500
+Epoch 70/100, train error: 0.036567. Elapsed time: 117.34 seconds
+Test error: 0.012300
+Epoch 71/100, train error: 0.034744. Elapsed time: 118.18 seconds
+Test error: 0.012600
+Epoch 72/100, train error: 0.034897. Elapsed time: 119.89 seconds
+Test error: 0.012500
+Epoch 73/100, train error: 0.034312. Elapsed time: 127.24 seconds
+Test error: 0.013200
+Epoch 74/100, train error: 0.034376. Elapsed time: 131.92 seconds
+Test error: 0.013400
+Epoch 75/100, train error: 0.035176. Elapsed time: 134.43 seconds
+Test error: 0.012800
+Epoch 76/100, train error: 0.032284. Elapsed time: 130.17 seconds
+Test error: 0.012200
+Epoch 77/100, train error: 0.036420. Elapsed time: 124.58 seconds
+Test error: 0.013400
+Epoch 78/100, train error: 0.034127. Elapsed time: 130.09 seconds
+Test error: 0.012500
+Epoch 79/100, train error: 0.035111. Elapsed time: 150.11 seconds
+Test error: 0.012600
+Epoch 80/100, train error: 0.033861. Elapsed time: 180.41 seconds
+Test error: 0.013800
+Epoch 81/100, train error: 0.034512. Elapsed time: 159.63 seconds
+Test error: 0.013000
+Epoch 82/100, train error: 0.034200. Elapsed time: 125.93 seconds
+Test error: 0.012300
+Epoch 83/100, train error: 0.034930. Elapsed time: 131.77 seconds
+Test error: 0.013300
+Epoch 84/100, train error: 0.034519. Elapsed time: 129.45 seconds
+Test error: 0.011100
+Epoch 85/100, train error: 0.032411. Elapsed time: 130.55 seconds
+Test error: 0.013400
+Epoch 86/100, train error: 0.033500. Elapsed time: 141.32 seconds
+Test error: 0.012900
+Epoch 87/100, train error: 0.032827. Elapsed time: 135.26 seconds
+Test error: 0.011700
+Epoch 88/100, train error: 0.034177. Elapsed time: 148.69 seconds
+Test error: 0.012200
+Epoch 89/100, train error: 0.034712. Elapsed time: 133.59 seconds
+Test error: 0.012700
+Epoch 90/100, train error: 0.033815. Elapsed time: 156.72 seconds
+Test error: 0.012700
+Epoch 91/100, train error: 0.035061. Elapsed time: 149.93 seconds
+Test error: 0.013000
+Epoch 92/100, train error: 0.034558. Elapsed time: 152.73 seconds
+Test error: 0.012200
+Epoch 93/100, train error: 0.032728. Elapsed time: 130.87 seconds
+Test error: 0.013100
+Epoch 94/100, train error: 0.033126. Elapsed time: 126.18 seconds
+Test error: 0.012700
+Epoch 95/100, train error: 0.033529. Elapsed time: 129.01 seconds
+Test error: 0.013400
+Epoch 96/100, train error: 0.032991. Elapsed time: 135.86 seconds
+Test error: 0.012500
+Epoch 97/100, train error: 0.031723. Elapsed time: 126.82 seconds
+Test error: 0.013100
+Epoch 98/100, train error: 0.033414. Elapsed time: 155.08 seconds
+Test error: 0.014400
+Epoch 99/100, train error: 0.033839. Elapsed time: 132.23 seconds
+Test error: 0.012600
+Epoch 100/100, train error: 0.032277. Elapsed time: 134.08 seconds
+Test error: 0.012700
+
+Classifying 10000 images completed in 9.07 seconds.
+End of run
+
+
+
+

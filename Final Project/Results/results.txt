@@ -1,0 +1,5 @@
+#mnist
+
+pool(s)=2, batch=200, CNN=0.019,10 DCNN=0.0137,10 with dropout(0.5) CNN=0.0171,10 DCNN=0.0153,10  
+pool(s)=1, batch=100, CNN=0.017,9 DCNN=0.018,9  (best CNN epoch=7 CNN=0.0164)
+
