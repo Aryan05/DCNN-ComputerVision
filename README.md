@@ -55,7 +55,7 @@ sudo python main_final.py
 *Note: sudo access is required is to write results in a file*
 
 ## Architecture
-![DCNN and CNN Architecture](https://imgur.com/a/knfVQBR)
+![DCNN and CNN Architecture](https://i.imgur.com/hciLMyA.png)
 
 ## Results
 
