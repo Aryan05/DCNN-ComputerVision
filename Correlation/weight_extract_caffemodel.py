@@ -5,7 +5,7 @@ import caffe
 
 caffe.set_mode_cpu();
 
-net = caffe.Net('/home/parv/Dropbox/SMAI_Project/Alex/deploy.prototxt','/home/parv/Downloads/bvlc_alexnet.caffemodel',caffe.TEST);
+net = caffe.Net('deploy.prototxt','bvlc_alexnet.caffemodel',caffe.TEST);
 
 W1=net.params['conv1'][0].data;
 W1.tofile('conv1W.txt',sep=" ",format="%s");
@@ -23,7 +23,7 @@ W1=net.params['conv5'][0].data;
 W1.tofile('conv5W.txt',sep=" ",format="%s");
 
 
-net = caffe.Net('/home/parv/Dropbox/SMAI_Project/VGG/deploy.prototxt','/home/parv/Downloads/VGG_ILSVRC_19_layers.caffemodel',caffe.TEST);
+net = caffe.Net('deploy.prototxt','VGG_ILSVRC_19_layers.caffemodel',caffe.TEST);
 
 W1=net.params['conv1_1'][0].data;
 W1.tofile('VGG1_1.txt',sep=" ",format="%s");
