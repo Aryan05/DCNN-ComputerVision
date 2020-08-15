@@ -1,5 +1,7 @@
 # Doubly Convolutional Neural Network
 - [Final Presentation] : *https://docs.google.com/presentation/d/1TAuehsTdoA2fRd5p711V0sqtGuEJubtq2tC9DbNnp-A/edit?usp=sharing*
+- This Code istested on MNIST Dataset.
+
 
 ## Project by
 >  Aryan Karn - 20185106
@@ -24,10 +26,6 @@ Code is written in python and would require following libraries:
 - lasagne
 
 Our Code is tested on Windows10 intel(i7)64 and MaC without CUDA but should run on any OS satisfying above pre-requisites.
-
-## Downloading Dataset
-- Code is tested on [MNIST] dataset which is dataset that comprises of handwritten digits.
-- Code will automatically download dataset or can manually placed in the project directory as **mnist.pkl.gz**. 
 
 ## Setting Various Parameters
 
