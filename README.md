@@ -3,8 +3,8 @@
 
 ## Project by
 >  Aryan Karn - 20185106
-MNNIT-Allahabad
-
+>  MNNIT-Allahabad
+>  ECE
 
 ## Original Paper
 > [Doubly Convolutional Neural Networks] (NIPS 2016) by Shuangfei Zhai, Yu Cheng, Weining Lu and Zhongfei (Mark) Zhang
