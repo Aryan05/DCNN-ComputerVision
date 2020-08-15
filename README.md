@@ -1,8 +1,5 @@
 # Doubly Convolutional Neural Network
-
-- [Dropbox Repo With Dataset] : *https://www.dropbox.com/sh/q5s6zgz04wet6fs/AADMRzHH9IoHpttcsvj5i45Ea?dl=0*
-- [GitHub Repo] : *https://github.com/tanmayc25/SMAI-Project---DCNN*
-- [Final Presentation] : *https://docs.google.com/presentation/d/1hf9jA1oF4u4xQ8HqkvQfKP3LuRLj8shHJmq0LOBtSb0/edit?usp=sharing*
+- [Final Presentation] : *https://docs.google.com/presentation/d/1TAuehsTdoA2fRd5p711V0sqtGuEJubtq2tC9DbNnp-A/edit?usp=sharing*
 
 ## Project by
 >  Aryan Karn - 20185106
@@ -63,7 +60,7 @@ sudo python main_final.py
 ## Results
 
 
-![Test Error vs Epoch](https://imgur.com/a/dzKj2ZY)
+![Test Error vs Epoch](https://i.imgur.com/LBmNCVW.png)
 
 
 ## Links
