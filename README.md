@@ -1,6 +1,6 @@
 # Doubly Convolutional Neural Network
 - [Final Presentation] : *https://docs.google.com/presentation/d/1TAuehsTdoA2fRd5p711V0sqtGuEJubtq2tC9DbNnp-A/edit?usp=sharing*
-- This Code istested on MNIST Dataset.
+- This Code is tested on MNIST Dataset.
 
 
 ## Project by
